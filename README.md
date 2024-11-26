@@ -1,4 +1,4 @@
-# crud_sqlite_joes
+# NOTE THAT!
 
 A new Flutter project.
 
