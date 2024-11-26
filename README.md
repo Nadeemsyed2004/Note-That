@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Download and Use
+click on initial release, download and Use it
+or
+
+https://github.com/Nadeemsyed2004/Note-That/releases/tag/v1.0.0
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
