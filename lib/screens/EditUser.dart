@@ -33,7 +33,7 @@ class _EditUserState extends State<EditUser> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color(hex("#B68D40")),
-        title: const Text("Nadeem's  Notes",
+        title: const Text("Note That!",
           style: TextStyle(
             fontFamily: "Satisfy",
             fontSize: 30,
