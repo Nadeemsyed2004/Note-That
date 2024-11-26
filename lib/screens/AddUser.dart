@@ -21,7 +21,7 @@ class _AddUserState extends State<AddUser> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Nadeem's  Notes",
+        title: const Text("Note That!",
         style: TextStyle(
           fontFamily: "Satisfy",
           fontSize: 30,
