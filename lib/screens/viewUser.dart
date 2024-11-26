@@ -17,7 +17,7 @@ class _ViewUserState extends State<ViewUser> {
     return Scaffold(
         appBar: AppBar(
           backgroundColor: Color(hex("#E18B43")),
-          title:  Text("Nadeem's  Notes",
+          title:  Text("Note That!",
             style: TextStyle(
               fontFamily: "Satisfy",
               fontSize: 30,
